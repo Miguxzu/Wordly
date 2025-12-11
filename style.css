@@ -132,7 +132,7 @@ html, body {
     display: flex;
     align-items: center;
     gap: 50px;
-    background: linear-gradient(135deg, #00000010 0%, #e4e8ec 100%);
+    background: rgba(255,255,255,0.5);
     padding: 40px 60px;
     border-radius: 20px;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
@@ -552,4 +552,5 @@ html, body {
         min-width: 28px;
         height: 48px;
     }
+
 }
